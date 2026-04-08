@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shivam 👋 — an engineering student focused on building practical, problem-solving projects 💻<br><br>I work across DBMS 🗄️, computer networks 🌐, and algorithms 📊, applying core concepts to real-world use cases ⚙️. I’ve built a Loan Approval System and an AI-based Loan Prediction model 🤖, along with network and probability-based simulations 📈<br><br>Currently, I’m strengthening DSA, DBMS, CN, and DAA 📚 while improving code efficiency and working on hackathon-level problems 🚀<br><br>Always learning and building 🔥
+Hi,I’m Shivam 👋 — an engineering student focused on building practical, problem-solving projects 💻<br><br>I work across DBMS 🗄️, computer networks 🌐, and algorithms 📊, applying core concepts to real-world use cases ⚙️. I’ve built a Loan Approval System and an AI-based Loan Prediction model 🤖, along with network and probability-based simulations 📈<br><br>Currently, I’m strengthening DSA, DBMS, CN, and DAA 📚 while improving code efficiency and working on hackathon-level problems 🚀<br><br>Always learning and building 🔥
 
 
 ## 🌐 Socials:
