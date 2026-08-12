@@ -329,3 +329,4 @@ current_focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20,11,6&section=footer" width="100%"/>
 
 </div>
+</div>
