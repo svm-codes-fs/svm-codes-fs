@@ -248,38 +248,6 @@ Diploma – Computer Engineering · July 2022 — May 2025 · India
 
 </div>
 
-> ⚠️ **This section needs one-time setup or it will always be broken**, regardless of everything else on this page: it only exists if a GitHub Action is running in your `svm-codes-fs/svm-codes-fs` repo to generate the `output` branch.
->
-> Setup (once): add a file at `.github/workflows/snake.yml` in that repo containing:
-> ```yaml
-> name: Generate Snake Animation
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch: {}
->   push:
->     branches: [main, master]
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Then run it once manually from the **Actions** tab (**Run workflow**) — it creates the `output` branch and the image above will start rendering.
-
 <br/>
 
 ## 13 &nbsp;Current Focus
